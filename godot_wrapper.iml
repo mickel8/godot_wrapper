@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="ELIXIR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/_build/dev/lib/godot_wrapper/ebin" />
+    <output-test url="file://$MODULE_DIR$/_build/test/lib/godot_wrapper/ebin" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/bunch" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/bunch_native" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/bundlex" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/qex" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/secure_random" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/shmex" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/unifex" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/node_modules/phoenix" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/node_modules/phoenix_html" />
+      <excludeFolder url="file://$MODULE_DIR$/cover" />
+      <excludeFolder url="file://$MODULE_DIR$/deps" />
+      <excludeFolder url="file://$MODULE_DIR$/doc" />
+      <excludeFolder url="file://$MODULE_DIR$/logs" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="unifex" level="project" />
+    <orderEntry type="library" name="ex_doc" level="project" />
+    <orderEntry type="library" name="bunch" level="project" />
+    <orderEntry type="library" name="shmex" level="project" />
+    <orderEntry type="library" name="bundlex" level="project" />
+    <orderEntry type="library" name="dialyxir" level="project" />
+    <orderEntry type="library" name="bunch_native" level="project" />
+    <orderEntry type="library" name="qex" level="project" />
+    <orderEntry type="library" name="secure_random" level="project" />
+    <orderEntry type="library" name="earmark" level="project" />
+  </component>
+</module>
